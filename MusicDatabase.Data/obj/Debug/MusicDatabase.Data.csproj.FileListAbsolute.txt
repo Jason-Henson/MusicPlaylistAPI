@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.CoreCompileInputs.cache
