@@ -51,11 +51,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddSong.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SongDetail.cs" />
+    <Compile Include="SongEdit.cs" />
+    <Compile Include="SongList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MusicDatabase.Data\MusicDatabase.Data.csproj">
+      <Project>{5B34C7AB-4BC6-4A98-AD25-13A099C7AB12}</Project>
+      <Name>MusicDatabase.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

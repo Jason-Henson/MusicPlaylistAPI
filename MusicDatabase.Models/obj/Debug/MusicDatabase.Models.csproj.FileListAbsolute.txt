@@ -10,3 +10,22 @@ C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Models\bin
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Models\bin\Debug\EntityFramework.xml
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.csproj.CopyComplete
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.csproj.AssemblyReference.cache
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.csproj.CoreCompileInputs.cache
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.pdb
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Models.dll.config
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Models.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Models.pdb
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\EntityFramework.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Data.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Data.pdb
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\MusicDatabase.Data.dll.config
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\EntityFramework.xml
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DJ Revell\source\repos\MusicPlaylistAPI\MusicDatabase.Models\obj\Debug\MusicDatabase.Models.csproj.CopyComplete
