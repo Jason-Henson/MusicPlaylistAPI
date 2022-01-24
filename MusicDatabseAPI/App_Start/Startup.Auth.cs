@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using MusicDatabseAPI.Providers;
 using MusicDatabseAPI.Models;
+using MusicDatabase.Models;
 
 namespace MusicDatabseAPI
 {
