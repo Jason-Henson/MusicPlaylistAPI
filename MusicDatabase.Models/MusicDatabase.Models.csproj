@@ -51,6 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumCategory.cs" />
+    <Compile Include="AlbumCreate.cs" />
+    <Compile Include="AlbumDetail.cs" />
+    <Compile Include="AlbumListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
