@@ -1,11 +1,11 @@
-﻿using System.Data.Entity;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using MusicDatabase.Data;
+using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity.Owin;
 
 namespace MusicDatabase.Models
 {
@@ -27,7 +27,7 @@ namespace MusicDatabase.Models
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
-        
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
@@ -49,7 +49,6 @@ namespace MusicDatabase.Models
                 .Add(new IdentityUserLoginConfiguration())
                 .Add(new IdentityUserLoginConfiguration());
         }
-
     }
 
     public class IdentityUserRoleConfiguration : EntityTypeConfiguration<IdentityUserRole>
@@ -59,7 +58,8 @@ namespace MusicDatabase.Models
             HasKey(iur => iur.UserId);
         }
     }
-        public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
+
+    public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
     {
         public IdentityUserLoginConfiguration()
         {
