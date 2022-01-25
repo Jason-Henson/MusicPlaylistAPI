@@ -1,12 +1,2 @@
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\MusicDatabase.Services.dll
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\MusicDatabase.Services.pdb
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\obj\Debug\MusicDatabase.Services.csproj.AssemblyReference.cache
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\obj\Debug\MusicDatabase.Services.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\obj\Debug\MusicDatabase.Services.dll
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\obj\Debug\MusicDatabase.Services.pdb
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\MusicDatabase.Services.dll.config
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\EntityFramework.dll
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\EntityFramework.SqlServer.dll
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\EntityFramework.xml
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\bin\Debug\EntityFramework.SqlServer.xml
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Services\obj\Debug\MusicDatabase.Services.csproj.CopyComplete

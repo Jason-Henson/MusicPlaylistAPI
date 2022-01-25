@@ -1,5 +1,3 @@
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\MusicDatabase.Data.dll.config
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\MusicDatabase.Data.dll
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\MusicDatabase.Data.pdb
@@ -30,6 +28,7 @@ C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\D
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\System.Web.Http.xml
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.dll
 C:\ElevenFiftyProjects\MusicDatabaseAPI\MusicDatabseAPI\MusicDatabase.Data\obj\Debug\MusicDatabase.Data.pdb

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
+using MusicDatabase.Data;
 
 namespace MusicDatabase.Models
 {
@@ -27,17 +28,16 @@ namespace MusicDatabase.Models
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
-        
+
+        public object Artist { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
         }
 
-        public DbSet<Song> Songs { get; set; }
-        public DbSet<Album> Albums { get; set; }
         public DbSet<Artist> Artists { get; set; }
-        public DbSet<Song_Album> SongAlbums { get; set; }
-
+     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
